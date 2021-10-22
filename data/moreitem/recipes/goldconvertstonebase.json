@@ -1,0 +1,42 @@
+{
+  "group": "moreitem",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moreitem:goldconvert"
+    },
+    "1": {
+      "item": "minecraft:milk_bucket"
+    },
+    "2": {
+      "item": "moreitem:goldconvert"
+    },
+    "3": {
+      "item": "moreitem:goldconvert"
+    },
+    "4": {
+      "item": "moreitem:goldconvert"
+    },
+    "5": {
+      "item": "moreitem:goldconvert"
+    },
+    "6": {
+      "item": "moreitem:goldconvert"
+    },
+    "7": {
+      "item": "minecraft:potion"
+    },
+    "8": {
+      "item": "moreitem:goldconvert"
+    }
+  },
+  "result": {
+    "item": "moreitem:goldconvertstone",
+    "count": 1
+  }
+}

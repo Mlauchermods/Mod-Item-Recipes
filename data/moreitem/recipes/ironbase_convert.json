@@ -1,0 +1,12 @@
+{
+  "group": "moreitem",
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "moreitem:ironconvert"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

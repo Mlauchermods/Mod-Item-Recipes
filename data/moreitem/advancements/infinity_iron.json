@@ -1,0 +1,40 @@
+{
+  "display": {
+    "background": "moreitem:textures/gatosonnys_iron_ingot.png",
+    "icon": {
+      "item": "moreitem:ironconvert"
+    },
+    "title": {
+      "translate": "advancements.infinity_iron.title"
+    },
+    "description": {
+      "translate": "advancements.infinity_iron.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "infinity_iron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "moreitem:ironconvert",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "moreitem:ironbase_convert"
+    ]
+  }
+}

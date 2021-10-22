@@ -1,0 +1,11 @@
+{
+  "pistol": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "moreitem:es_gunshot_pistol_56_-_sfx_producer",
+        "stream": false
+      }
+    ]
+  }
+}

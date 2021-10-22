@@ -1,0 +1,42 @@
+{
+  "group": "moreitem",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moreitem:goldconvertstone"
+    },
+    "1": {
+      "item": "moreitem:goldconvertstone"
+    },
+    "2": {
+      "item": "moreitem:goldconvertstone"
+    },
+    "3": {
+      "item": "moreitem:goldconvertstone"
+    },
+    "4": {
+      "item": "moreitem:goldconvertstone"
+    },
+    "5": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "6": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "7": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "8": {
+      "item": "minecraft:smooth_sandstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 1
+  }
+}
